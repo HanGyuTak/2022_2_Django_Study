@@ -10,4 +10,7 @@
 * 큰 화면에 연결해서 다같이 볼 수 있는 스터디룸 (건대 추정)
 * 혹은, 과 실습실 가능한지 확인.
 * 
-### 5. 
+### 5. 주요 명령어 정리
+* git clone -b <branch name> --single-branch <branch url> : 원격의 브랜치를 로컬 브랜치로 끌어옴
+* git pull, push, merge
+* 
