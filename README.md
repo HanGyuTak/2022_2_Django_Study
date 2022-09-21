@@ -2,4 +2,4 @@ hello
 my
 name
 is
-min
+min soo
