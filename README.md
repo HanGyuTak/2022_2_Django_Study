@@ -12,6 +12,3 @@
   <a href="https://github.com/alstn38"><img src="https://img.shields.io/badge/강민수-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <a href=""><img src="https://img.shields.io/badge/박세환-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
-
-<h3>메롱<h3>
-
