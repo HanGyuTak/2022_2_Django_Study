@@ -7,8 +7,26 @@
   <a href="https://github.com/kimyg119"><img src="https://img.shields.io/badge/김영규-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <a href="https://github.com/02Skanu/"><img src="https://img.shields.io/badge/서관우-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <a href="https://github.com/chjung99/"><img src="https://img.shields.io/badge/정찬호-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<<<<<<< HEAD
   <a href="https://github.com/tjdgus3488"><img src="https://img.shields.io/badge/배성현-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <a href=""><img src="https://img.shields.io/badge/강민수-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+=======
+  <a href=""><img src="https://img.shields.io/badge/배성현-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+=======
+  <a href=""><img src="https://img.shields.io/badge/정찬호-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<<<<<<< HEAD
+  <a href=""><img src="https://img.shields.io/badge/배성현-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <a href="https://github.com/alstn38"><img src="https://img.shields.io/badge/강민수-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+=======
+  <a href="https://github.com/tjdgus3488"><img src="https://img.shields.io/badge/배성현-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<<<<<<< HEAD
+  <a href="https://github.com/alstn38"><img src="https://img.shields.io/badge/강민수-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+>>>>>>> 12c17754cb3d3017711fa4e47b4d38df028de701
+=======
+>>>>>>> 12c17754cb3d3017711fa4e47b4d38df028de701
+  <a href="https://github.com/alstn38"><img src="https://img.shields.io/badge/강민수-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+>>>>>>> 3a2b0aab422a37e17c46d15127cb9b6d377c2be2
+>>>>>>> f351047ea7acc48f265ab0ba70ad2b9c156a21d6
   <a href=""><img src="https://img.shields.io/badge/박세환-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
