@@ -13,4 +13,8 @@
 ### 5. 주요 명령어 정리
 * git clone -b <branch name> --single-branch <branch url> : 원격의 브랜치를 로컬 브랜치로 끌어옴
 * git pull, push, merge
-* 
+* git branch : branch 리스트 확인
+        -a : 모든 숨겨진 branch와 local branch 확인
+        -d : branch 삭제
+* git checkout
+        -b : 새로운 branch 생성 후 checkout 
